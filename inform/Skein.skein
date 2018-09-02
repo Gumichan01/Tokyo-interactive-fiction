@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x02DD4220" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x02DD4220"/>
+  <item nodeId="node-0x02DD4220">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">La chaleur...Les odeurs...Le bruit des roues...Les secousses...Les grincements...Le cri strident des freins...La ligne Marunouchi du m&#x00E9;tro tokyo&#x00EF;te s'arr&#x00EA;te &#x00E0; l'arr&#x00EA;t Nishi-Shinjuku...Je suis arriv&#x00E9;e...Je descends enfin de la rame...Il fait frais...J'aime...! &#x000A;Les rues sont illumin&#x00E9;es par les d&#x00E9;corations...On approche de No&#x00EB;l...On ne f&#x00EA;te pas vraiment No&#x00EB;l, c'est vrai...Enfin...Je suis en bas de chez moi...Il fait chaud...Je me mets &#x00E0; l'aise...&#x000A;&#x000A;Tokyo&#x000A;An Interactive Fiction par Luxon JEAN-PIERRE&#x000A;Release 1 / Serial number 140119 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;Entr&#x00E9;e du studio&#x000A;Enfin chez soi ! Je vais me reposer dans le salon, &#x00E0; ma gauche.&#x000A;&#x000A;$</result>
+    <commentary xml:space="preserve">La chaleur...Les odeurs...Le bruit des roues...Les secousses...Les grincements...Le cri strident des freins...La ligne Marunouchi du m&#x00E9;tro tokyo&#x00EF;te s'arr&#x00EA;te &#x00E0; l'arr&#x00EA;t Nishi-Shinjuku...Je suis arriv&#x00E9;e...Je descends enfin de la rame...Il fait frais...J'aime...! &#x000A;Les rues sont illumin&#x00E9;es par les d&#x00E9;corations...On approche de No&#x00EB;l...On ne f&#x00EA;te pas vraiment No&#x00EB;l, c'est vrai...Enfin...Je suis en bas de chez moi...Il fait chaud...Je me mets &#x00E0; l'aise...&#x000A;&#x000A;Shutdown&#x000A;An Interactive Fiction par Luxon JEAN-PIERRE&#x000A;Release 1 / Serial number 140109 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;Entr&#x00E9;e du studio&#x000A;Enfin chez soi !&#x000A;&#x000A;$</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02DF65F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF65F0">
+    <command xml:space="preserve">test keio</command>
+    <result xml:space="preserve">(Testing.)&#x000A;&#x000A;$ [1] test shin&#x000A;(Testing.)&#x000A;&#x000A;$ [2] test req&#x000A;(Testing.)&#x000A;&#x000A;$ [3] test shut&#x000A;(Testing.)&#x000A;&#x000A;$ [4] test part1&#x000A;(Testing.)&#x000A;&#x000A;$ [5] test dial1&#x000A;(Testing.)&#x000A;&#x000A;$ [6] test pc&#x000A;(Testing.)&#x000A;&#x000A;$ [7] regarder&#x000A;Entr&#x00E9;e du studio&#x000A;Enfin chez soi ! Je vais me reposer dans le salon, &#x00E0; ma gauche.&#x000A;&#x000A;$ [8] regarder&#x000A;Entr&#x00E9;e du studio&#x000A;Enfin chez soi ! Je vais me reposer dans le salon, &#x00E0; ma gauche.&#x000A;&#x000A;$ [9] w&#x000A;&#x000A;salon&#x000A;Rien a changer depuis ce matin. La mezzanine en haut du salon non plus.&#x000A;&#x000A;Je peux voir tv et bureau (supportant ordinateur et smartphone).&#x000A;&#x000A;$ [10] regarder&#x000A;salon&#x000A;Rien a changer depuis ce matin. La mezzanine en haut du salon non plus.&#x000A;&#x000A;Je peux voir tv et bureau (supportant ordinateur et smartphone).&#x000A;&#x000A;$ [11] x pc&#x000A;J'allume mon pc. Je lance mon projet. &#x000A; Je code comme une folle...je corrige...je code...je d&#x00E9;bogue...zzzz...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6580"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6580">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6510"/>
+      <child nodeId="node-0x059D1C40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6510">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">......zzz........</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6660"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6660">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">......zzzzzzz........</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF66D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF66D0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">"Clic"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6740">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Ma t&#x00EA;te...je me suis endormie devant le pc...&#x000A;&#x000A;$ [12] x pc&#x000A;Je me remets au travail... Plus rien, plus de lumi&#x00E8;re ! Mon pc s'est coup&#x00E9;.... Je le rallume... Rien !&#x000A;Il fait noir.... Je tente de remettre la lumi&#x00E8;re... Rien ! Il n'y a plus de courant.&#x000A;Il faut que je trouve de quoi eclairer le salon.&#x000A;&#x000A;&#x000A;A pr&#x00E9;sent, l'obscurit&#x00E9; est totale. &#x000A;&#x000A;$ [13] up&#x000A;&#x000A;mezzanine&#x000A;Je peux voir lampe torche (allum&#x00E9;).&#x000A;&#x000A;$ [14] prendre lampe torche&#x000A;On voit un peu mieux maintenant. &#x000A; Mon smartphone sonne, Qui peut bien m'appeler &#x00E0; cette heure-l&#x00E0; ? Il est presque 1 heure du matin.&#x000A;&#x000A;$ [15] down&#x000A;&#x000A;salon&#x000A;C'est si silencieux !&#x000A;&#x000A;Je peux voir tv et bureau (supportant ordinateur et smartphone).&#x000A;&#x000A;$ [16] prendre smart&#x000A;Voil&#x00E0; qui est fait.&#x000A;&#x000A;$ [17] x smart&#x000A;Rien de particulier concernant smartphone.&#x000A;&#x000A;C'est Gumi, ma meilleure amie, qui m'appelle, je d&#x00E9;croche.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6890">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">"Allo"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF69E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF69E0">
+    <command xml:space="preserve">j</command>
+    <result xml:space="preserve">"Miku !! Tu es toujours debout, c'est cool. Tu as des probl&#x00E8;mes de courant chez toi  ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6A50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6A50">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">"Heu oui, pourquoi ? Toi aussi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6AC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6AC0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">"Oui, et je ne sais pas pourquoi. Apparement, toute la ville est priv&#x00E9;e d"&#x00E9;lectricit&#x00E9;. Je te rejoinds en bas de l'immeuble. Je serais au square"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6B30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6B30">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">"Heu...d'accord"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6BA0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6BA0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Il n'y a plus rien &#x00E0; faire i&#x00E7;i, mieux vaut sortir&#x000A;&#x000A;$ [18] e&#x000A;&#x000A;Entr&#x00E9;e du studio&#x000A;Je ferais mieux de sortir pour voir ce qu'il se passe.&#x000A;&#x000A;$ [19] e&#x000A;Je sors mes cl&#x00E9;s de ma poche, j'enfile mon manteau et je sors.&#x000A;&#x000A;Les escaliers Etage 7&#x000A;J'ai l'impression de plonger dans les tenebres....&#x000A;Je ferme la porte de mon appartement &#x00E0; double tour....&#x000A;Gumi doit d&#x00E9;j&#x00E0; &#x00EA;tre en bas, je ne devrais pas trop trainer. Il faut descendre.&#x000A;&#x000A;$ [20] bas&#x000A;&#x000A;Les escaliers Etage 6&#x000A;...&#x000A;&#x000A;$ [21] bas&#x000A;&#x000A;Les escaliers Etage 5&#x000A;...&#x000A;&#x000A;$ [22] bas&#x000A;&#x000A;Les escaliers Etage 4&#x000A;...ce silence...&#x000A;&#x000A;$ [23] bas&#x000A;&#x000A;Les escaliers Etage 3&#x000A;...&#x000A;&#x000A;$ [24] bas&#x000A;&#x000A;Les escaliers Etage 2&#x000A;...C'en est presque malsain...&#x000A;&#x000A;$ [25] bas&#x000A;&#x000A;Les escaliers Etage 1&#x000A;...&#x000A;&#x000A;$ [26] bas&#x000A;&#x000A;Rez-de-chauss&#x00E9;e&#x000A;Enfin en bas, le hall, peu &#x00E9;cli&#x00E9;r se trouve &#x00E0; ma droite, je vais enfin sortir&#x000A;&#x000A;$ [27] e&#x000A;&#x000A;Hall&#x000A;De la lumi&#x00E8;re ??!!! Non...juste les phares des v&#x00E9;hicules dehors qui sont coinc&#x00E9;s sur la route...Leur lumi&#x00E8;re atteignent difficilement le hall. Elle n'est pas suffisante pour eclairer la piece, La porte est ferm&#x00E9;. Il faut que je prenne mon badge dans ma boite au lettres&#x000A;&#x000A;Je peux voir porte de l'immeuble et Boite au lettre (supportant badge).&#x000A;&#x000A;$ [28] ouvrir porte avec badge&#x000A;(prenant d'abord badge)&#x000A;Je d&#x00E9;verrouille porte de l'immeuble.&#x000A;&#x000A;$ [29] ouvrir porte&#x000A;Avec le badge c'est beaucoup mieux.&#x000A;&#x000A;J'ouvre porte de l'immeuble.&#x000A;&#x000A;$ [30] e&#x000A;&#x000A;La rue&#x000A;La lumi&#x00E8;re, qui p&#x00E9;netrait &#x00E0; peine le hall, m'eblouit d&#x00E9;sormais...Tout &#x00E0; ma hauteur est &#x00E9;clair&#x00E9;. Mais doit tout cela aux phares des v&#x00E9;hicules coinc&#x00E9;s dans les embouteillages. &#x000A;&#x000A;En levant la t&#x00EA;te...c'est...le noir total.Le bruit des moteurs me semblait si faible au vu de la noirceur nocturne. Je n'ai jamais vu un ciel aussi sombre de toute mon existence. Pas d"&#x00E9;toile...Pas de nuage...Pas de Lune...Pas d'avion...Rien....&#x000A;Je voie Gumi dans le square, de l'autre c&#x00F4;t&#x00E9; de la rue&#x000A;&#x000A;Je peux voir porte de l'immeuble.&#x000A;&#x000A;$ [31] e&#x000A;Je me fraie un chemin entre les v&#x00E9;hicule gar&#x00E9;s et ceux qui sont coinc&#x00E9;s dans la rue. Tout &#x00E7;a pour arriver dans le square&#x000A;&#x000A;Le square&#x000A;Le square, autrefois un lieu illumin&#x00E9; et d'une beaut&#x00E9; sans pareil la nuit, n'est plus qu'un vulgaire terrain mal &#x00E9;clair&#x00E9;...Je dis &#x00E7;a comme si c"&#x00E9;tait il y a longtemps, alors que j"&#x00E9;tais l&#x00E0; la veille.....Gumi est l&#x00E0;. &#x000A;&#x000A;"Coucou, d&#x00E9;sol&#x00E9; de me cacher i&#x00E7;i, il faut que je te dise un truc, &#x00E0; propos de la coupure de courant"&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [32] x gumi&#x000A;Je connais Gumi depuis qu'on est au coll&#x00E8;ge. Je la vois comme une soeur. Elle a toujours &#x00E9;t&#x00E9; g&#x00E9;n&#x00E9;reuse avec moi, et moi de m&#x00EA;me avec elle. Elle a 24 ans, comme moi. Nos styles vestimentaires, tr&#x00E8;s orient&#x00E9;s Sweet Lolita, sont tr&#x00E8;s proches. La couleur de nos cheveux diff&#x00E8;re en revanche. Gumi a les cheveux vert alors et moi, je les ai en bleu.&#x000A;&#x000A;$ [33] questionner gumi sur courant&#x000A;"Qu'y a-t-il ??", lui demand&#x00E9;-je</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6C10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6C10">
+    <command xml:space="preserve">,</command>
+    <result xml:space="preserve">"Pour &#x00EA;tre honn&#x00EA;te",me r&#x00E9;pond-telle, "il se passe des choses louches, j'ai entendu dire qu'il y avait une manifestation &#x00E9;colo dans l'arrondissement de Shinjuku"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6C80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6C80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">"Heu, d'accord mais ... "</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6CF0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6CF0">
+    <command xml:space="preserve">j</command>
+    <result xml:space="preserve">"Justement. Tu trouves &#x00E7;a normal que des &#x00E9;colos manifestent allegrement alors que la ville est plong&#x00E9;e dans le noir ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6D60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6D60">
+    <command xml:space="preserve">j</command>
+    <result xml:space="preserve">"Et tu veux qu-on fasse quoi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6DD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6DD0">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">"On devrait leur parler. Peut-&#x00EA;tre qu'ils ont des informations sur ce qui s'est pass&#x00E9;. Ils sont peut-&#x00EA;tre responsable, &#x00E7;a se trouve. D'ailleurs, tu arrive &#x00E0; passer un coup de file ou &#x00E0; envoyer un texto ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6E40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6E40">
+    <command xml:space="preserve">j</command>
+    <result xml:space="preserve">"J'ai pas essayer pourquoi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6EB0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6EB0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">"Je peux rien faire avec mon tel, en plus c'est une antiquit&#x00E9;. tu captes la 3G non ?? V&#x00E9;rifies !"&#x000A;&#x000A;$ [34] x smart&#x000A;Rien de particulier concernant smartphone.&#x000A;&#x000A;J'appele Gumi pour m'assuser que nos deux telephone fonctionnent. Le telephone sonne, je peut donc l'appeler.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6F20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6F20">
+    <command xml:space="preserve">j</command>
+    <result xml:space="preserve">"J'ai du reseau Miku !! Je vais essayer d'appeler quelqu'un d'autre". Rien...personne au bout du fil.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF6F90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF6F90">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">"Pourquoi mon tel il peut te recevoir et pas les autres ??"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF7000"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF7000">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">"Aucune id&#x00E9;e"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF7070"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF7070">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Effectivement, nos deux telephones peuvent communiquer entre eux , quand bien m&#x00EA;me il n'y a plus de r&#x00E9;seau t&#x00E9;l&#x00E9;phonique, et pourtant....je peux aller sur le net. Gumi a l'air totalement perdu &#x00E0; ce niveau l&#x00E0;. Peut-&#x00EA;tre devrais-je lui en parler</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF70E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF70E0">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">$ [35] questionner gumi sur 3g&#x000A;&#x000A;"Mais on peut ni avoir de r&#x00E9;seau t&#x00E9;l&#x00E9;phonique ni de connexion 3G. Comment se fait-ce ?" s"&#x00E9;crie Gumi</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF7150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF7150">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">"Je n'en sais rien, Gumi. Si tu veux on en parlera apr&#x00E8;s. Allons rendre visite aux &#x00E9;colos"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF71C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF71C0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Nous nous d&#x00E9;cidons de partir &#x00E0; Shinjuku interroger les &#x00E9;colos. Cela faisait un petit moment que je n"&#x00E9;tait pas mont&#x00E9; sur son scooter. J'enfile le casque que Gumi m'as confi&#x00E9; et nous quittons les lieux&#x000A;&#x000A;Keio Plaza&#x000A;Apr&#x00E8;s un petit bout de chemin, nous arrivons dans l'arrondissement de Shinjuku, un grand quartier d'affaire de la ville, de loin le plus anim&#x00E9; au vu des activit&#x00E9;s dans le quartier...enfin...c'est toujours le cas, mais dans un autre contexte. &#x000A;&#x000A;Gumi laisse on scooter devant le Keio Plaza. Un hotel tr&#x00E8;s connu dans le quartier. Vu que je ne connais pas trop le quartier, je ferais mieux de lui demander quelques informations&#x00E0; Gumi.&#x000A;A l'est d'i&#x00E7;i on acc&#x00E8;de &#x00E0; Odakyu, tandis qu"&#x00E0; l'Est on peut entrer dans l'hotel. Mais mieux vaut rejoindre les &#x00E9;colos&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [36] regarder&#x000A;Keio Plaza&#x000A;Apr&#x00E8;s un petit bout de chemin, nous arrivons dans l'arrondissement de Shinjuku, un grand quartier d'affaire de la ville, de loin le plus anim&#x00E9; au vu des activit&#x00E9;s dans le quartier...enfin...c'est toujours le cas, mais dans un autre contexte. &#x000A;&#x000A;Gumi laisse on scooter devant le Keio Plaza. Un hotel tr&#x00E8;s connu dans le quartier. Vu que je ne connais pas trop le quartier, je ferais mieux de lui demander quelques informations&#x00E0; Gumi.&#x000A;A l'est d'i&#x00E7;i on acc&#x00E8;de &#x00E0; Odakyu, tandis qu"&#x00E0; l'Est on peut entrer dans l'hotel. Mais mieux vaut rejoindre les &#x00E9;colos&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [37] questionner gumi sur quartier&#x000A;"Je n'en sais pas plus que toi Miku, allons voir leur leader&#x000A;&#x000A;$ [38] e&#x000A;&#x000A;Odakyu&#x000A;Des manifestants brandissent des pancartes devant le siege d'une entreprise de distribution &#x00E9;lectrique. Il etait quasi impossible de les lire correctement, malgr&#x00E9; la lumi&#x00E8;re des lampes torche. L'ambiance &#x00E9;tait festive, ce qui contrastait &#x00E9;norm&#x00E9;ment avec l'atmosphere malsaine de tout &#x00E0; l'heure. Une manifestante ecolo, &#x00E0; moiti&#x00E9;e nue, brandissait une une pancatre o&#x00F9; il &#x00E9;tait &#x00E9;crit "Nuclear. Not in my garden !"&#x000A; Shinjuku Station est accessible &#x00E0; l'est d'Odakyu, et En continuant tout droit, on atteint Le Lumine, d'apr&#x00E8;s ce que me dit Gumi&#x000A;&#x000A;Je peux voir manifestante ecolo.&#x000A;&#x000A;$ [39] regarder&#x000A;Odakyu&#x000A;Des manifestants brandissent des pancartes devant le siege d'une entreprise de distribution &#x00E9;lectrique. Il etait quasi impossible de les lire correctement, malgr&#x00E9; la lumi&#x00E8;re des lampes torche. L'ambiance &#x00E9;tait festive, ce qui contrastait &#x00E9;norm&#x00E9;ment avec l'atmosphere malsaine de tout &#x00E0; l'heure. Une manifestante ecolo, &#x00E0; moiti&#x00E9;e nue, brandissait une une pancatre o&#x00F9; il &#x00E9;tait &#x00E9;crit "Nuclear. Not in my garden !"&#x000A; Shinjuku Station est accessible &#x00E0; l'est d'Odakyu, et En continuant tout droit, on atteint Le Lumine, d'apr&#x00E8;s ce que me dit Gumi&#x000A;&#x000A;Je peux voir manifestante ecolo.&#x000A;&#x000A;$ [40] questionner manifestante ecolo sur leader&#x000A;"Excusez-moi !!", s'ecrie Gumi</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF7230"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF7230">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">La jeune femme se retourne et nous toise. Elle est pas si jeune que &#x00E7;a. Elle doit avoir la trentaine. C'est une peu vieux pour une ecolo. J'ai beau tenir ces propos mais Monsieur Beauvais, qui dirige le mouvement &#x00E9;cologiste, a au moins la cinquantaine</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF72A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF72A0">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">"Ouais... Vous voulez quoi les mioches ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF7380"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF7380">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">"Et bien en fait on cherche votre leader."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF7460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF7460">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Elle continue &#x00E0; nous toiser, &#x00E0; force je trouve cela fort agacant</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5278"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5278">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">"Tu veux voir le chef c'est &#x00E7;a ? Ben t'as qu'a le trouver toi-m&#x00EA;me. HAHAHAHA !!"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B52E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B52E8">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">Elle s"&#x00E9;loigne de nous, fi&#x00E8;re de son attitude arrogant Elle n'en dira pas plus, d&#x00E9;cid&#x00E9;ment&#x000A;$ [41] questionner gumi sur ecolo&#x000A;Je ne vois rien de tel, ou bien c'est sans grande importance.&#x000A;&#x000A;$ [42] questionner gumi sur ecolo&#x000A;Je ne vois rien de tel, ou bien c'est sans grande importance.&#x000A;&#x000A;$ [43] questionner manifestante ecolo sur leader&#x000A;Elle n'en dira pas plus, d&#x00E9;cid&#x00E9;ment&#x000A;$ [44] w&#x000A;&#x000A;Keio Plaza&#x000A;Apr&#x00E8;s un petit bout de chemin, nous arrivons dans l'arrondissement de Shinjuku, un grand quartier d'affaire de la ville, de loin le plus anim&#x00E9; au vu des activit&#x00E9;s dans le quartier...enfin...c'est toujours le cas, mais dans un autre contexte. &#x000A;&#x000A;Gumi laisse on scooter devant le Keio Plaza. Un hotel tr&#x00E8;s connu dans le quartier. Vu que je ne connais pas trop le quartier, je ferais mieux de lui demander quelques informations&#x00E0; Gumi.&#x000A;A l'est d'i&#x00E7;i on acc&#x00E8;de &#x00E0; Odakyu, tandis qu"&#x00E0; l'Est on peut entrer dans l'hotel. Mais mieux vaut rejoindre les &#x00E9;colos&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [45] w&#x000A;Je ferais mieux d'aller voir les ecolos&#x000A;Keio Plaza Rez-de-chauss&#x00E9;e&#x000A;Cette hotel m&#x00E9;rite bien ses 5 &#x00E9;toiles. Le sol est tellement brillant que l'on peut voir nos reflets. Le bureau d'accueil est fait en un bois massif tr&#x00E8;s travailler. Et un receptionniste se tiens l&#x00E0;.Je devrais le saluer.&#x000A;&#x000A;Je peux voir receptionniste.&#x000A;&#x000A;$ [46] test recep&#x000A;(Testing.)&#x000A;&#x000A;$ [47] questionner receptionniste sur bonsoir&#x000A;&#x000A;"Bonsoir jeunes demoiselles, d&#x00E9;sirez-vous une chambre pour la nuit, en ce moment on on accepte que des esp&#x00E8;ces, l'absence de courant nous empeche de faire les transactions bancaires."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DF73F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DF73F0">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">"Bonsoir...heu non merci nous ne sommes pas l&#x00E0; pour y passer la nuit. Nous enquetons sur la coupure de courant" lui r&#x00E9;pond Gumi.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5358"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5358">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">"Hum je comprends. Malheureusement je n'ai pas d'information. personne n'a l'air d"&#x00EA;tre au courant."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B53C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B53C8">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">"Y a-til des gens qui sont venus r&#x00E9;cemment ?"lui demand&#x00E9;-je.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B54A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B54A8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Allo"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5518"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5518">
+    <command xml:space="preserve">b</command>
+    <result xml:space="preserve">$ [48] questionner receptionniste sur femme&#x000A;&#x000A;"Oui ce serait bien merci"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5588"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5588">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Miku !! Tu es toujours debout, c'est cool. Tu as des probl&#x00E8;mes de courant chez toi  ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B55F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B55F8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu oui, pourquoi ? Toi aussi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5668"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5668">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Oui, et je ne sais pas pourquoi. Apparement, toute la ville est priv&#x00E9;e d"&#x00E9;lectricit&#x00E9;. Je te rejoinds en bas de l'immeuble. Je serais au square"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B56D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B56D8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu...d'accord"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5748"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5748">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Il n'y a plus rien &#x00E0; faire i&#x00E7;i, mieux vaut sortir&#x000A;&#x000A;$ [18] e&#x000A;&#x000A;Entr&#x00E9;e du studio&#x000A;Je ferais mieux de sortir pour voir ce qu'il se passe.&#x000A;&#x000A;$ [19] e&#x000A;Je sors mes cl&#x00E9;s de ma poche, j'enfile mon manteau et je sors.&#x000A;&#x000A;Les escaliers Etage 7&#x000A;J'ai l'impression de plonger dans les tenebres....&#x000A;Je ferme la porte de mon appartement &#x00E0; double tour....&#x000A;Gumi doit d&#x00E9;j&#x00E0; &#x00EA;tre en bas, je ne devrais pas trop trainer. Il faut descendre.&#x000A;&#x000A;$ [20] bas&#x000A;&#x000A;Les escaliers Etage 6&#x000A;...&#x000A;&#x000A;$ [21] bas&#x000A;&#x000A;Les escaliers Etage 5&#x000A;...&#x000A;&#x000A;$ [22] bas&#x000A;&#x000A;Les escaliers Etage 4&#x000A;...ce silence...&#x000A;&#x000A;$ [23] bas&#x000A;&#x000A;Les escaliers Etage 3&#x000A;...&#x000A;&#x000A;$ [24] bas&#x000A;&#x000A;Les escaliers Etage 2&#x000A;...C'en est presque malsain...&#x000A;&#x000A;$ [25] bas&#x000A;&#x000A;Les escaliers Etage 1&#x000A;...&#x000A;&#x000A;$ [26] bas&#x000A;&#x000A;Rez-de-chauss&#x00E9;e&#x000A;Enfin en bas, le hall, peu &#x00E9;cli&#x00E9;r se trouve &#x00E0; ma droite, je vais enfin sortir&#x000A;&#x000A;$ [27] e&#x000A;&#x000A;Hall&#x000A;De la lumi&#x00E8;re ??!!! Non...juste les phares des v&#x00E9;hicules dehors qui sont coinc&#x00E9;s sur la route...Leur lumi&#x00E8;re atteignent difficilement le hall. Elle n'est pas suffisante pour eclairer la piece, La porte est ferm&#x00E9;. Il faut que je prenne mon badge dans ma boite au lettres&#x000A;&#x000A;Je peux voir porte de l'immeuble et Boite au lettre (supportant badge).&#x000A;&#x000A;$ [28] ouvrir porte avec badge&#x000A;(prenant d'abord badge)&#x000A;Je d&#x00E9;verrouille porte de l'immeuble.&#x000A;&#x000A;$ [29] ouvrir porte&#x000A;Avec le badge c'est beaucoup mieux.&#x000A;&#x000A;J'ouvre porte de l'immeuble.&#x000A;&#x000A;$ [30] e&#x000A;&#x000A;La rue&#x000A;La lumi&#x00E8;re, qui p&#x00E9;netrait &#x00E0; peine le hall, m'eblouit d&#x00E9;sormais...Tout &#x00E0; ma hauteur est &#x00E9;clair&#x00E9;. Mais doit tout cela aux phares des v&#x00E9;hicules coinc&#x00E9;s dans les embouteillages. &#x000A;&#x000A;En levant la t&#x00EA;te...c'est...le noir total.Le bruit des moteurs me semblait si faible au vu de la noirceur nocturne. Je n'ai jamais vu un ciel aussi sombre de toute mon existence. Pas d"&#x00E9;toile...Pas de nuage...Pas de Lune...Pas d'avion...Rien....&#x000A;Je voie Gumi dans le square, de l'autre c&#x00F4;t&#x00E9; de la rue&#x000A;&#x000A;Je peux voir porte de l'immeuble.&#x000A;&#x000A;$ [31] e&#x000A;Je me fraie un chemin entre les v&#x00E9;hicule gar&#x00E9;s et ceux qui sont coinc&#x00E9;s dans la rue. Tout &#x00E7;a pour arriver dans le square&#x000A;&#x000A;Le square&#x000A;Le square, autrefois un lieu illumin&#x00E9; et d'une beaut&#x00E9; sans pareil la nuit, n'est plus qu'un vulgaire terrain mal &#x00E9;clair&#x00E9;...Je dis &#x00E7;a comme si c"&#x00E9;tait il y a longtemps, alors que j"&#x00E9;tais l&#x00E0; la veille.....Gumi est l&#x00E0;. &#x000A;&#x000A;"Coucou, d&#x00E9;sol&#x00E9; de me cacher i&#x00E7;i, il faut que je te dise un truc, &#x00E0; propos de la coupure de courant"&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [32] x gumi&#x000A;Je connais Gumi depuis qu'on est au coll&#x00E8;ge. Je la vois comme une soeur. Elle a toujours &#x00E9;t&#x00E9; g&#x00E9;n&#x00E9;reuse avec moi, et moi de m&#x00EA;me avec elle. Elle a 24 ans, comme moi. Nos styles vestimentaires, tr&#x00E8;s orient&#x00E9;s Sweet Lolita, sont tr&#x00E8;s proches. La couleur de nos cheveux diff&#x00E8;re en revanche. Gumi a les cheveux vert alors et moi, je les ai en bleu.&#x000A;&#x000A;$ [33] questionner gumi sur courant&#x000A;"Qu'y a-t-il ??", lui demand&#x00E9;-je</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B57B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B57B8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Pour &#x00EA;tre honn&#x00EA;te",me r&#x00E9;pond-telle, "il se passe des choses louches, j'ai entendu dire qu'il y avait une manifestation &#x00E9;colo dans l'arrondissement de Shinjuku"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5828"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5828">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu, d'accord mais ... "</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5898"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5898">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Justement. Tu trouves &#x00E7;a normal que des &#x00E9;colos manifestent allegrement alors que la ville est plong&#x00E9;e dans le noir ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5908"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5908">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Et tu veux qu-on fasse quoi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B5978"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B5978">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"On devrait leur parler. Peut-&#x00EA;tre qu'ils ont des informations sur ce qui s'est pass&#x00E9;. Ils sont peut-&#x00EA;tre responsable, &#x00E7;a se trouve. D'ailleurs, tu arrive &#x00E0; passer un coup de file ou &#x00E0; envoyer un texto ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059B59E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059B59E8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"J'ai pas essayer pourquoi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12318"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12318">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Je peux rien faire avec mon tel, en plus c'est une antiquit&#x00E9;. tu captes la 3G non ?? V&#x00E9;rifies !"&#x000A;&#x000A;$ [34] x smart&#x000A;Rien de particulier concernant smartphone.&#x000A;&#x000A;J'appele Gumi pour m'assuser que nos deux telephone fonctionnent. Le telephone sonne, je peut donc l'appeler.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12388"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12388">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"J'ai du reseau Miku !! Je vais essayer d'appeler quelqu'un d'autre". Rien...personne au bout du fil.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A123F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A123F8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Pourquoi mon tel il peut te recevoir et pas les autres ??"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12468"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12468">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Aucune id&#x00E9;e"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A124D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A124D8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Effectivement, nos deux telephones peuvent communiquer entre eux , quand bien m&#x00EA;me il n'y a plus de r&#x00E9;seau t&#x00E9;l&#x00E9;phonique, et pourtant....je peux aller sur le net. Gumi a l'air totalement perdu &#x00E0; ce niveau l&#x00E0;. Peut-&#x00EA;tre devrais-je lui en parler</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12548"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12548">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">$ [35] questionner gumi sur 3g&#x000A;&#x000A;"Mais on peut ni avoir de r&#x00E9;seau t&#x00E9;l&#x00E9;phonique ni de connexion 3G. Comment se fait-ce ?" s"&#x00E9;crie Gumi</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A125B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A125B8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Je n'en sais rien, Gumi. Si tu veux on en parlera apr&#x00E8;s. Allons rendre visite aux &#x00E9;colos"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12628"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12628">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Nous nous d&#x00E9;cidons de partir &#x00E0; Shinjuku interroger les &#x00E9;colos. Cela faisait un petit moment que je n"&#x00E9;tait pas mont&#x00E9; sur son scooter. J'enfile le casque que Gumi m'as confi&#x00E9; et nous quittons les lieux&#x000A;&#x000A;Keio Plaza&#x000A;Apr&#x00E8;s un petit bout de chemin, nous arrivons dans l'arrondissement de Shinjuku, un grand quartier d'affaire de la ville, de loin le plus anim&#x00E9; au vu des activit&#x00E9;s dans le quartier...enfin...c'est toujours le cas, mais dans un autre contexte. &#x000A;&#x000A;Gumi laisse on scooter devant le Keio Plaza. Un hotel tr&#x00E8;s connu dans le quartier. Vu que je ne connais pas trop le quartier, je ferais mieux de lui demander quelques informations&#x00E0; Gumi.&#x000A;A l'est d'i&#x00E7;i on acc&#x00E8;de &#x00E0; Odakyu, tandis qu"&#x00E0; l'Est on peut entrer dans l'hotel. Mais mieux vaut rejoindre les &#x00E9;colos&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [36] regarder&#x000A;Keio Plaza&#x000A;Apr&#x00E8;s un petit bout de chemin, nous arrivons dans l'arrondissement de Shinjuku, un grand quartier d'affaire de la ville, de loin le plus anim&#x00E9; au vu des activit&#x00E9;s dans le quartier...enfin...c'est toujours le cas, mais dans un autre contexte. &#x000A;&#x000A;Gumi laisse on scooter devant le Keio Plaza. Un hotel tr&#x00E8;s connu dans le quartier. Vu que je ne connais pas trop le quartier, je ferais mieux de lui demander quelques informations&#x00E0; Gumi.&#x000A;A l'est d'i&#x00E7;i on acc&#x00E8;de &#x00E0; Odakyu, tandis qu"&#x00E0; l'Est on peut entrer dans l'hotel. Mais mieux vaut rejoindre les &#x00E9;colos&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [37] questionner gumi sur quartier&#x000A;"Je n'en sais pas plus que toi Miku, allons voir leur leader&#x000A;&#x000A;$ [38] e&#x000A;&#x000A;Odakyu&#x000A;Des manifestants brandissent des pancartes devant le siege d'une entreprise de distribution &#x00E9;lectrique. Il etait quasi impossible de les lire correctement, malgr&#x00E9; la lumi&#x00E8;re des lampes torche. L'ambiance &#x00E9;tait festive, ce qui contrastait &#x00E9;norm&#x00E9;ment avec l'atmosphere malsaine de tout &#x00E0; l'heure. Une manifestante ecolo, &#x00E0; moiti&#x00E9;e nue, brandissait une une pancatre o&#x00F9; il &#x00E9;tait &#x00E9;crit "Nuclear. Not in my garden !"&#x000A; Shinjuku Station est accessible &#x00E0; l'est d'Odakyu, et En continuant tout droit, on atteint Le Lumine, d'apr&#x00E8;s ce que me dit Gumi&#x000A;&#x000A;Je peux voir manifestante ecolo.&#x000A;&#x000A;$ [39] regarder&#x000A;Odakyu&#x000A;Des manifestants brandissent des pancartes devant le siege d'une entreprise de distribution &#x00E9;lectrique. Il etait quasi impossible de les lire correctement, malgr&#x00E9; la lumi&#x00E8;re des lampes torche. L'ambiance &#x00E9;tait festive, ce qui contrastait &#x00E9;norm&#x00E9;ment avec l'atmosphere malsaine de tout &#x00E0; l'heure. Une manifestante ecolo, &#x00E0; moiti&#x00E9;e nue, brandissait une une pancatre o&#x00F9; il &#x00E9;tait &#x00E9;crit "Nuclear. Not in my garden !"&#x000A; Shinjuku Station est accessible &#x00E0; l'est d'Odakyu, et En continuant tout droit, on atteint Le Lumine, d'apr&#x00E8;s ce que me dit Gumi&#x000A;&#x000A;Je peux voir manifestante ecolo.&#x000A;&#x000A;$ [40] questionner manifestante ecolo sur leader&#x000A;"Excusez-moi !!", s'ecrie Gumi</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12698"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12698">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">La jeune femme se retourne et nous toise. Elle est pas si jeune que &#x00E7;a. Elle doit avoir la trentaine. C'est une peu vieux pour une ecolo. J'ai beau tenir ces propos mais Monsieur Beauvais, qui dirige le mouvement &#x00E9;cologiste, a au moins la cinquantaine</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12708"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12708">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Ouais... Vous voulez quoi les mioches ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A127E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A127E8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Et bien en fait on cherche votre leader."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A128C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A128C8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Elle continue &#x00E0; nous toiser, &#x00E0; force je trouve cela fort agacant</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12938"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12938">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Tu veux voir le chef c'est &#x00E7;a ? Ben t'as qu'a le trouver toi-m&#x00EA;me. HAHAHAHA !!"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A129A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A129A8">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Elle s"&#x00E9;loigne de nous, fi&#x00E8;re de son attitude arrogant Elle n'en dira pas plus, d&#x00E9;cid&#x00E9;ment&#x000A;$ [41] questionner gumi sur ecolo&#x000A;Je ne vois rien de tel, ou bien c'est sans grande importance.&#x000A;&#x000A;$ [42] questionner gumi sur ecolo&#x000A;Je ne vois rien de tel, ou bien c'est sans grande importance.&#x000A;&#x000A;$ [43] questionner manifestante ecolo sur leader&#x000A;Elle n'en dira pas plus, d&#x00E9;cid&#x00E9;ment&#x000A;$ [44] w&#x000A;&#x000A;Keio Plaza&#x000A;Apr&#x00E8;s un petit bout de chemin, nous arrivons dans l'arrondissement de Shinjuku, un grand quartier d'affaire de la ville, de loin le plus anim&#x00E9; au vu des activit&#x00E9;s dans le quartier...enfin...c'est toujours le cas, mais dans un autre contexte. &#x000A;&#x000A;Gumi laisse on scooter devant le Keio Plaza. Un hotel tr&#x00E8;s connu dans le quartier. Vu que je ne connais pas trop le quartier, je ferais mieux de lui demander quelques informations&#x00E0; Gumi.&#x000A;A l'est d'i&#x00E7;i on acc&#x00E8;de &#x00E0; Odakyu, tandis qu"&#x00E0; l'Est on peut entrer dans l'hotel. Mais mieux vaut rejoindre les &#x00E9;colos&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [45] w&#x000A;Je ferais mieux d'aller voir les ecolos&#x000A;Keio Plaza Rez-de-chauss&#x00E9;e&#x000A;Cette hotel m&#x00E9;rite bien ses 5 &#x00E9;toiles. Le sol est tellement brillant que l'on peut voir nos reflets. Le bureau d'accueil est fait en un bois massif tr&#x00E8;s travailler. Et un receptionniste se tiens l&#x00E0;.Je devrais le saluer.&#x000A;&#x000A;Je peux voir receptionniste.&#x000A;&#x000A;$ [46] test recep&#x000A;(Testing.)&#x000A;&#x000A;$ [47] questionner receptionniste sur bonsoir&#x000A;&#x000A;"Bonsoir jeunes demoiselles, d&#x00E9;sirez-vous une chambre pour la nuit, en ce moment on on accepte que des esp&#x00E8;ces, l'absence de courant nous empeche de faire les transactions bancaires."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12A18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12A18">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Bonsoir...heu non merci nous ne sommes pas l&#x00E0; pour y passer la nuit. Nous enquetons sur la coupure de courant" lui r&#x00E9;pond Gumi.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12A88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12A88">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Hum je comprends. Malheureusement je n'ai pas d'information. personne n'a l'air d"&#x00EA;tre au courant."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E880D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E880D0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Y a-til des gens qui sont venus r&#x00E9;cemment ?"lui demand&#x00E9;-je.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88140">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu...oui une femme plut&#x00F4;t ag&#x00E9;e...la quarantaine...elle &#x00E9;tait tr&#x00E8;s pr&#x00E9;ocupp&#x00E9;e par la coupure de courant...Si vous voulez je peux vous indiquer le chemin."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E881B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E881B0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">$ [48] questionner receptionniste sur femme&#x000A;&#x000A;"Oui ce serait bien merci"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88220"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88220">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Elle est au premier &#x00E9;tage. Et prenez les escaliers, le groupe &#x00E9;lectrong&#x00E8;ne est en panne"&#x000A;$ [49] test ch&#x000A;(Testing.)&#x000A;&#x000A;$ [50] haut&#x000A;&#x000A;Keio Plaza Etage 1&#x000A;Le couloir de l"&#x00E9;tage est &#x00E9;clair&#x00E9; par des bougies. On s'y sent bien. C'est beaucoup plus s&#x00E9;curisant. La chambre indiqu&#x00E9;e par le receptionniste est &#x00E0; notre droite&#x000A;&#x000A;$ [51] e&#x000A;&#x000A;Chambre&#x000A;La pi&#x00E8;ce semble confortable. On pourrait presque s'y allonger et dormir comme un b&#x00E9;b&#x00E9;. La dame qui dort pour la nuit est l&#x00E0;.&#x000A;&#x000A;"Bonsoir ! Le receptionniste m'a pr&#x00E9;venu de votre venue. Je suis H&#x00E9;l&#x00E8;ne Lee, je dirige la centrale qui devait alimenter Tokyo."&#x000A;&#x000A;Je peux voir commode et Helene.&#x000A;&#x000A;$ [52] questionner helene sur courant&#x000A;"Bonsoir ! Voi&#x00E7;i Gumi, et moi je sui Mikuna. Vous &#x00EA;tes donc la directrice de la centrale ??"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88290">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"C'est bien cela."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88300">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Alors vous savez ce qui se passe ?", s'ecrie Gumi.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88370"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88370">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Oui....et je vais tout vous expliquer."</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E883E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E883E0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Gumi et moi l"&#x00E9;coutons attentivement. Nous pendions &#x00E0; ses l&#x00E8;vres, tels des gosses qui bavent devant un bonbon</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88450">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Les &#x00E9;colos ont pirater le syst&#x00E8;me informatique de la centrale et couper le courant. Sauf que ce n'est pas juste pour couper le courant. Il ont l'intention de faire sautez la centrale".</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E884C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E884C0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"...Mais pourquoi ?".</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E885A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E885A0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Pour faire portez le fardeau au gouvernement. Il veulent se servir de &#x00E7;a pour montrer que les centrales ne sont pas s&#x00FB;rs, alors qu'il seront eux-m&#x00EA;me responsables des d&#x00E9;sastres &#x00E0; venir".</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88530"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88530">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Et pourquoi n'avez vous pas regl&#x00E9; le probl&#x00E8;me par vous m&#x00EA;me ? lui demand&#x00E9;-je".</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88680"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88680">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Je n"&#x00E9;tais pas &#x00E0; la centrale au moment o&#x00F9; c'est arriv&#x00E9;. Et puis je n'ai pas de moto ou de scooter pour d&#x00E9;placer dans ces embouteillages. En revanche, je suis la seul &#x00E0; pouvoir r&#x00E9;gler le probl&#x00E8;me. Je detient l&#x00E0; une cl&#x00E9; qui permet de d&#x00E9;sactiver le syst&#x00E8;me et de le r&#x00E9;initialiser. Tenez, je vous la donne".&#x000A;&#x000A;$ [53] prendre cle&#x000A;"Ne perdez pas de temps ! Allez &#x00E0; la centrale !"ordonne-t-elle.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E886F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E886F0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">J'ai :&#x000A;  Grosse cle&#x000A;  badge&#x000A;  smartphone&#x000A;  lampe torche (allum&#x00E9;)&#x000A;&#x000A;$</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12858"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12858">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Oui", lui reponds-je</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88840"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88840">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Nous descendons toutes les deux au rez-de-chauss&#x00E9;e puis sortons de l'hotel. Gumi mets son casque, j'en fais de m&#x00EA;me, puis nous partons pour la centrale. Une longue route nous attends ....</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E887D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E887D0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">$</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x059D1C40">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">......zzz........</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1BD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1BD0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">......zzzzzzz........</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1D20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1D20">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Clic"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1D90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1D90">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Ma t&#x00EA;te...je me suis endormie devant le pc...&#x000A;&#x000A;$ [12] x pc&#x000A;Je me remets au travail... Plus rien, plus de lumi&#x00E8;re ! Mon pc s'est coup&#x00E9;.... Je le rallume... Rien !&#x000A;Il fait noir.... Je tente de remettre la lumi&#x00E8;re... Rien ! Il n'y a plus de courant.&#x000A;Il faut que je trouve de quoi eclairer le salon.&#x000A;&#x000A;&#x000A;A pr&#x00E9;sent, l'obscurit&#x00E9; est totale. &#x000A;&#x000A;$ [13] up&#x000A;&#x000A;mezzanine&#x000A;Je peux voir lampe torche (allum&#x00E9;).&#x000A;&#x000A;$ [14] prendre lampe torche&#x000A;On voit un peu mieux maintenant. &#x000A; Mon smartphone sonne, Qui peut bien m'appeler &#x00E0; cette heure-l&#x00E0; ? Il est presque 1 heure du matin.&#x000A;&#x000A;$ [15] down&#x000A;&#x000A;salon&#x000A;C'est si silencieux !&#x000A;&#x000A;Je peux voir tv et bureau (supportant ordinateur et smartphone).&#x000A;&#x000A;$ [16] prendre smart&#x000A;Voil&#x00E0; qui est fait.&#x000A;&#x000A;$ [17] x smart&#x000A;Rien de particulier concernant smartphone.&#x000A;&#x000A;C'est Gumi, ma meilleure amie, qui m'appelle, je d&#x00E9;croche.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1E00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1E00">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Allo"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1E70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1E70">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Miku !! Tu es toujours debout, c'est cool. Tu as des probl&#x00E8;mes de courant chez toi  ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1EE0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1EE0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu oui, pourquoi ? Toi aussi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1F50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1F50">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Oui, et je ne sais pas pourquoi. Apparement, toute la ville est priv&#x00E9;e d"&#x00E9;lectricit&#x00E9;. Je te rejoinds en bas de l'immeuble. Je serais au square"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D1FC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D1FC0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu...d'accord"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D2030"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D2030">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Il n'y a plus rien &#x00E0; faire i&#x00E7;i, mieux vaut sortir&#x000A;&#x000A;$ [18] e&#x000A;&#x000A;Entr&#x00E9;e du studio&#x000A;Je ferais mieux de sortir pour voir ce qu'il se passe.&#x000A;&#x000A;$ [19] e&#x000A;Je sors mes cl&#x00E9;s de ma poche, j'enfile mon manteau et je sors.&#x000A;&#x000A;Les escaliers Etage 7&#x000A;J'ai l'impression de plonger dans les tenebres....&#x000A;Je ferme la porte de mon appartement &#x00E0; double tour....&#x000A;Gumi doit d&#x00E9;j&#x00E0; &#x00EA;tre en bas, je ne devrais pas trop trainer. Il faut descendre.&#x000A;&#x000A;$ [20] bas&#x000A;&#x000A;Les escaliers Etage 6&#x000A;...&#x000A;&#x000A;$ [21] bas&#x000A;&#x000A;Les escaliers Etage 5&#x000A;...&#x000A;&#x000A;$ [22] bas&#x000A;&#x000A;Les escaliers Etage 4&#x000A;...ce silence...&#x000A;&#x000A;$ [23] bas&#x000A;&#x000A;Les escaliers Etage 3&#x000A;...&#x000A;&#x000A;$ [24] bas&#x000A;&#x000A;Les escaliers Etage 2&#x000A;...C'en est presque malsain...&#x000A;&#x000A;$ [25] bas&#x000A;&#x000A;Les escaliers Etage 1&#x000A;...&#x000A;&#x000A;$ [26] bas&#x000A;&#x000A;Rez-de-chauss&#x00E9;e&#x000A;Enfin en bas, le hall, peu &#x00E9;cli&#x00E9;r se trouve &#x00E0; ma droite, je vais enfin sortir&#x000A;&#x000A;$ [27] e&#x000A;&#x000A;Hall&#x000A;De la lumi&#x00E8;re ??!!! Non...juste les phares des v&#x00E9;hicules dehors qui sont coinc&#x00E9;s sur la route...Leur lumi&#x00E8;re atteignent difficilement le hall. Elle n'est pas suffisante pour eclairer la piece, La porte est ferm&#x00E9;. Il faut que je prenne mon badge dans ma boite au lettres&#x000A;&#x000A;Je peux voir porte de l'immeuble et Boite au lettre (supportant badge).&#x000A;&#x000A;$ [28] ouvrir porte avec badge&#x000A;(prenant d'abord badge)&#x000A;Je d&#x00E9;verrouille porte de l'immeuble.&#x000A;&#x000A;$ [29] ouvrir porte&#x000A;Avec le badge c'est beaucoup mieux.&#x000A;&#x000A;J'ouvre porte de l'immeuble.&#x000A;&#x000A;$ [30] e&#x000A;&#x000A;La rue&#x000A;La lumi&#x00E8;re, qui p&#x00E9;netrait &#x00E0; peine le hall, m'eblouit d&#x00E9;sormais...Tout &#x00E0; ma hauteur est &#x00E9;clair&#x00E9;. Mais doit tout cela aux phares des v&#x00E9;hicules coinc&#x00E9;s dans les embouteillages. &#x000A;&#x000A;En levant la t&#x00EA;te...c'est...le noir total.Le bruit des moteurs me semblait si faible au vu de la noirceur nocturne. Je n'ai jamais vu un ciel aussi sombre de toute mon existence. Pas d"&#x00E9;toile...Pas de nuage...Pas de Lune...Pas d'avion...Rien....&#x000A;Je voie Gumi dans le square, de l'autre c&#x00F4;t&#x00E9; de la rue&#x000A;&#x000A;Je peux voir porte de l'immeuble.&#x000A;&#x000A;$ [31] e&#x000A;Je me fraie un chemin entre les v&#x00E9;hicule gar&#x00E9;s et ceux qui sont coinc&#x00E9;s dans la rue. Tout &#x00E7;a pour arriver dans le square&#x000A;&#x000A;Le square&#x000A;Le square, autrefois un lieu illumin&#x00E9; et d'une beaut&#x00E9; sans pareil la nuit, n'est plus qu'un vulgaire terrain mal &#x00E9;clair&#x00E9;...Je dis &#x00E7;a comme si c"&#x00E9;tait il y a longtemps, alors que j"&#x00E9;tais l&#x00E0; la veille.....Gumi est l&#x00E0;. &#x000A;&#x000A;"Coucou, d&#x00E9;sol&#x00E9; de me cacher i&#x00E7;i, il faut que je te dise un truc, &#x00E0; propos de la coupure de courant"&#x000A;&#x000A;Je peux voir Gumi.&#x000A;&#x000A;$ [32] x gumi&#x000A;Je connais Gumi depuis qu'on est au coll&#x00E8;ge. Je la vois comme une soeur. Elle a toujours &#x00E9;t&#x00E9; g&#x00E9;n&#x00E9;reuse avec moi, et moi de m&#x00EA;me avec elle. Elle a 24 ans, comme moi. Nos styles vestimentaires, tr&#x00E8;s orient&#x00E9;s Sweet Lolita, sont tr&#x00E8;s proches. La couleur de nos cheveux diff&#x00E8;re en revanche. Gumi a les cheveux vert alors et moi, je les ai en bleu.&#x000A;&#x000A;$ [33] questionner gumi sur courant&#x000A;"Qu'y a-t-il ??", lui demand&#x00E9;-je</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D20A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D20A0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Pour &#x00EA;tre honn&#x00EA;te",me r&#x00E9;pond-telle, "il se passe des choses louches, j'ai entendu dire qu'il y avait une manifestation &#x00E9;colo dans l'arrondissement de Shinjuku"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D2110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D2110">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Heu, d'accord mais ... "</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D2180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D2180">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Justement. Tu trouves &#x00E7;a normal que des &#x00E9;colos manifestent allegrement alors que la ville est plong&#x00E9;e dans le noir ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D21F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D21F0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Et tu veux qu-on fasse quoi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D2260"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D2260">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"On devrait leur parler. Peut-&#x00EA;tre qu'ils ont des informations sur ce qui s'est pass&#x00E9;. Ils sont peut-&#x00EA;tre responsable, &#x00E7;a se trouve. D'ailleurs, tu arrive &#x00E0; passer un coup de file ou &#x00E0; envoyer un texto ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059D22D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059D22D0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"J'ai pas essayer pourquoi ?"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x05A12778"/>
+    </children>
+  </item>
+  <item nodeId="node-0x05A12778">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Je peux rien faire avec mon tel, en plus c'est une antiquit&#x00E9;. tu captes la 3G non ?? V&#x00E9;rifies !"&#x000A;&#x000A;$ [34] x smart&#x000A;Rien de particulier concernant smartphone.&#x000A;&#x000A;J'appele Gumi pour m'assuser que nos deux telephone fonctionnent. Le telephone sonne, je peut donc l'appeler.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02E88610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02E88610">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"J'ai du reseau Miku !! Je vais essayer d'appeler quelqu'un d'autre". Rien...personne au bout du fil.</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059C5A78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059C5A78">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">"Pourquoi mon tel il peut te recevoir et pas les autres ??"</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+</Skein>
